@@ -1,4 +1,4 @@
-# RAG System for Insurellm Knowledge Base
+# RAG System for Existing Knowledge Base
 
 A production-ready Retrieval-Augmented Generation (RAG) system that provides intelligent question-answering capabilities over a company knowledge base using advanced chunking strategies and comprehensive evaluation metrics.
 
